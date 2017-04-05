@@ -1,37 +1,37 @@
-{
-   "grounds": [
-	   	{
-			"name": "Ground1",
-			"address": "5277 Orchard Crest",
-			"city": "Troy",
-            "state": "MI",
-            "zip": "48085",
-            "android_link": "",
-            "ios_link": "",
-            "latitude": 37.390749
-            "longitude": -122.081651
-		},
-		{
-			"name": "Ground2",
-			"address": "731 Glen Cir",
-			"city": "Rochester Hills",
-            "state": "MI",
-            "zip": "48307",
-            "android_link": "",
-            "ios_link": "",
-            "latitude": 37.390749
-            "longitude": -122.081651
-		},
-		{
-			"name": "Ground2",
-			"address": "4288 Chester Ct",
-			"city": "Farmington Hills",
-            "state": "MI",
-            "zip": "48335",
-            "android_link": "",
-            "ios_link": "",
-            "latitude": 37.390749
-            "longitude": -122.081651
-		}
-	]
+{  
+   "grounds":[  
+      {  
+         "name":"Ground1",
+         "address":"5277 Orchard Crest",
+         "city":"Troy",
+         "state":"MI",
+         "zip":"48085",
+         "android_link":"",
+         "ios_link":"",
+         "latitude":37.390749,
+         "longitude":-122.081651
+      },
+      {  
+         "name":"Ground2",
+         "address":"731 Glen Cir",
+         "city":"Rochester Hills",
+         "state":"MI",
+         "zip":"48307",
+         "android_link":"",
+         "ios_link":"",
+         "latitude":37.390749,
+         "longitude":-122.081651
+      },
+      {  
+         "name":"Ground2",
+         "address":"4288 Chester Ct",
+         "city":"Farmington Hills",
+         "state":"MI",
+         "zip":"48335",
+         "android_link":"",
+         "ios_link":"",
+         "latitude":37.390749,
+         "longitude":-122.081651
+      }
+   ]
 }
