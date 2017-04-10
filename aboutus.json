@@ -1,5 +1,21 @@
 {
   "aboutus": [
-  
+    {
+      "name": "SampleName1",
+      "designation":"sampleDesignation1",
+      "contact": "contact@email.com"
+    },{
+      "name": "SampleName2",
+      "designation":"sampleDesignation2",
+      "contact": "contact@email.com"
+    },{
+      "name": "SampleName3",
+      "designation":"sampleDesignation3",
+      "contact": "contact@email.com"
+    },{
+      "name": "SampleName4",
+      "designation":"sampleDesignation4",
+      "contact": "contact@email.com"
+    }
   ]
 }
