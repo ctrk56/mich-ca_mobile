@@ -1,62 +1,22 @@
 {
    "news": [
 	   {
-	      "id": 6,
-	      "title" : "title 6",
-	      "subtitle" : "subtite is shown here",
-	      "message" : "this will be a long message of around 500 characters. this will be a long message of around 500 characters.",
-	      "role" : "admin",
-	      "expirationDate" : "01/6/2017",
-	      "important": false,
-	      "active": true
-	   },
-	   {
-	      "id": 5,
-	      "title" : "title 5",
-	      "subtitle" : "subtite is shown here",
-	      "message" : "this will be a long message of around 500 characters. this will be a long message of around 500 characters.",
-	      "role" : "admin",
-	      "expirationDate" : "01/6/2017",
-	      "important": false,
-	      "active": true
-	   },
-	   {
-	      "id": 4,
-	      "title" : "title 4",
-	      "subtitle" : "subtite is shown here",
-	      "message" : "this will be a long message of around 500 characters. this will be a long message of around 500 characters.",
-	      "role" : "admin",
-	      "expirationDate" : "01/7/2017",
-	      "important": true,
-	      "active": true
-	   },
-	   {
-	      "id": 3,
-	      "title" : "title 3",
-	      "subtitle" : "subtite is shown here",
-	      "message" : "this will be a long message of around 500 characters. this will be a long message of around 500 characters.",
-	      "role" : "admin",
-	      "expirationDate" : "01/7/2017",
-	      "important": true,
-	      "active": true
-	   },
-	   {
 	      "id": 2,
-	      "title" : "title 2",
-	      "subtitle" : "subtite is shown here",
-	      "message" : "this will be a long message of around 500 characters. this will be a long message of around 500 characters.",
+	      "title" : "GLT 2017",
+	      "subtitle" : "Starts April 22nd",
+	      "message" : "We wish all the teams GOOD LUCK and will keep you posted on the schedule and other logistics in the next few days.",
 	      "role" : "admin",
-	      "expirationDate" : "01/7/2017",
-	      "important": true,
+	      "expirationDate" : "01/6/2017",
+	      "important": false,
 	      "active": true
 	   },
 	   {
 	      "id": 1,
-	      "title" : "title 1",
-	      "subtitle" : "subtite is shown here",
-	      "message" : "this will be a long message of around 500 characters. this will be a long message of around 500 characters.",
+	      "title" : "GLT 2017 Registration",
+	      "subtitle" : "CLOSED",
+	      "message" : "GLT REgistration is now CLOSED, a total of 34 teams will be participating this season.",
 	      "role" : "admin",
-	      "expirationDate" : "01/7/2017",
+	      "expirationDate" : "01/6/2017",
 	      "important": false,
 	      "active": true
 	   }
