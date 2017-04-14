@@ -3,23 +3,33 @@
     {
       "name": "SHAHID AHMED",
       "designation":"Chairman",
-      "contact": "communications@michca.org"
+      "contact": "communications@michca.org",
+      "imageURL": "",
+      "active": true
     },{
       "name": "BINO VARGHESE",
       "designation":"Vice-Chairman",
-      "contact": "communications@michca.org"
+      "contact": "communications@michca.org",
+      "imageURL": "",
+      "active": true
     },{
       "name": "KRISHNA BHERI",
       "designation":"General Secretary",
-      "contact": "communications@michca.org"
+      "contact": "communications@michca.org",
+      "imageURL": "",
+      "active": true
     },{
       "name": "AJEY MOHILE",
       "designation":"Treasurer",
-      "contact": "communications@michca.org"
+      "contact": "communications@michca.org",
+      "imageURL": "",
+      "active": true
     },{
       "name": "HARSHA CHALASANI",
       "designation":"Public Relations",
-      "contact": "communications@michca.org"
+      "contact": "communications@michca.org",
+      "imageURL": "",
+      "active": true
     }
   ]
 }
