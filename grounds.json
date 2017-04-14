@@ -35,7 +35,7 @@
          "latitude":42.442545,
          "longitude": -83.274716,
          "active": true
-      }
+      },
       {  
          "name":"Trombly Park, Warren",
          "address":"14801 Alvin Ave",
@@ -47,7 +47,7 @@
          "latitude":0,
          "longitude": 0,
          "active": true
-      }
+      },
       {  
          "name":"Lyon Oaks County Park, Wixom",
          "address":"52221 W Pontiac Trail",
@@ -59,7 +59,7 @@
          "latitude":0,
          "longitude": 0,
          "active": true
-      }
+      },
       {  
          "name":"Heritage Park, Canton",
          "address":"46202 Heritage Park Rd",
@@ -71,7 +71,7 @@
          "latitude":0,
          "longitude": 0,
          "active": true
-      }
+      },
       {  
          "name":"Beatty Park, Toledo, Ohio",
          "address":"1450 South Cove Rd",
@@ -83,7 +83,7 @@
          "latitude":0,
          "longitude": 0,
          "active": true
-      }
+      },
       {  
          "name":"Tag East, Hartland",
          "address":"1535 Old US 23",
@@ -95,7 +95,7 @@
          "latitude":0,
          "longitude": 0,
          "active": true
-      }
+      },
       {  
          "name":"Belle Isle 1, Detroit ",
          "address":"1 Casino Way",
