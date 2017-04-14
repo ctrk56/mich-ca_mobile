@@ -1,37 +1,112 @@
 {  
    "grounds":[  
       {  
-         "name":"Ground1",
-         "address":"5277 Orchard Crest",
-         "city":"Troy",
-         "state":"MI",
-         "zip":"48085",
-         "android_link":"",
-         "ios_link":"",
-         "latitude":37.390749,
-         "longitude":-122.081651
-      },
-      {  
-         "name":"Ground2",
-         "address":"731 Glen Cir",
+         "name":"Bloomer Park, Rochester",
+         "address":"345 John R Road",
          "city":"Rochester Hills",
          "state":"MI",
          "zip":"48307",
          "android_link":"",
          "ios_link":"",
-         "latitude":37.390749,
-         "longitude":-122.081651
+         "latitude":0,
+         "longitude":0,
+         "active": true
       },
       {  
-         "name":"Ground2",
-         "address":"4288 Chester Ct",
-         "city":"Farmington Hills",
+         "name":"Murphy Park, Pontiac",
+         "address":"348 Russell St",
+         "city":"Pontiac",
          "state":"MI",
-         "zip":"48335",
+         "zip":"48342",
          "android_link":"",
          "ios_link":"",
-         "latitude":37.390749,
-         "longitude":-122.081651
+         "latitude":0,
+         "longitude":0,
+         "active": true
+      },
+      {  
+         "name":"Mirage, Detroit",
+         "address":"23701 W 8 Mile Rd",
+         "city":"Detroit",
+         "state":"MI",
+         "zip":"48219",
+         "android_link":"",
+         "ios_link":"",
+         "latitude":42.442545,
+         "longitude": -83.274716,
+         "active": true
+      }
+      {  
+         "name":"Trombly Park, Warren",
+         "address":"14801 Alvin Ave",
+         "city":"Warren",
+         "state":"MI",
+         "zip":"48089",
+         "android_link":"",
+         "ios_link":"",
+         "latitude":0,
+         "longitude": 0,
+         "active": true
+      }
+      {  
+         "name":"Lyon Oaks County Park, Wixom",
+         "address":"52221 W Pontiac Trail",
+         "city":"Wixom",
+         "state":"MI",
+         "zip":"48993",
+         "android_link":"",
+         "ios_link":"",
+         "latitude":0,
+         "longitude": 0,
+         "active": true
+      }
+      {  
+         "name":"Heritage Park, Canton",
+         "address":"46202 Heritage Park Rd",
+         "city":"Canton",
+         "state":"MI",
+         "zip":"48188",
+         "android_link":"",
+         "ios_link":"",
+         "latitude":0,
+         "longitude": 0,
+         "active": true
+      }
+      {  
+         "name":"Beatty Park, Toledo, Ohio",
+         "address":"1450 South Cove Rd",
+         "city":"Toledo",
+         "state":"Ohio",
+         "zip":"43606",
+         "android_link":"",
+         "ios_link":"",
+         "latitude":0,
+         "longitude": 0,
+         "active": true
+      }
+      {  
+         "name":"Tag East, Hartland",
+         "address":"1535 Old US 23",
+         "city":"Hartland",
+         "state":"MI",
+         "zip":"48353",
+         "android_link":"",
+         "ios_link":"",
+         "latitude":0,
+         "longitude": 0,
+         "active": true
+      }
+      {  
+         "name":"Belle Isle 1, Detroit ",
+         "address":"1 Casino Way",
+         "city":"Detroit",
+         "state":"MI",
+         "zip":"48209",
+         "android_link":"",
+         "ios_link":"",
+         "latitude":0,
+         "longitude": 0,
+         "active": true
       }
    ]
 }
