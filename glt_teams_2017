@@ -1,0 +1,208 @@
+{
+  "teams": [
+    {
+      "id": 1,
+      "name": "Cavaliers Cricket Club of Windsor",
+      "code": "CAVS",
+      "active": true
+    },
+    {
+      "id": 2,
+      "name": "Chargers CC",
+      "code": "CHCC",
+      "active": true
+    },
+    {
+      "id": 3,
+      "name": "Detroit Challengers CC",
+      "code": "DCCC",
+      "active": true
+    },
+    {
+      "id": 4,
+      "name": "Detroit Engineered Products CC ",
+      "code": "DEPC",
+      "active": true
+    },
+    {
+      "id": 5,
+      "name": "Detroit Super Kings Bulls",
+      "code": "DSKB",
+      "active": true
+    },
+    {
+      "id": 6,
+      "name": "Detroit Super Kings Warriors",
+      "code": "DSKW",
+      "active": true
+    },
+    {
+      "id": 7,
+      "name": "Farmington Cricket Club Braves",
+      "code": "FCCB",
+      "active": true
+    },
+    {
+      "id": 8,
+      "name": "Great Lakes Cricket Club",
+      "code": "GLCC",
+      "active": true
+    },
+    {
+      "id": 9,
+      "name": "Greater Detroit Cricket Club Greens",
+      "code": "GDCC",
+      "active": true
+    },
+    {
+      "id": 10,
+      "name": "Greater Detroit Cricket Club Panthers",
+      "code": "GPAN",
+      "active": true
+    },
+    {
+      "id": 11,
+      "name": "Greater Troy Tigers CC",
+      "code": "GTTC",
+      "active": true
+    },
+    {
+      "id": 12,
+      "name": "Kalinga Warriors Cricket Club",
+      "code": "KWCC",
+      "active": true
+    },
+    {
+      "id": 13,
+      "name": "Mavericks Cricket Club",
+      "code": "MVCC",
+      "active": true
+    },
+    {
+      "id": 14,
+      "name": "Metro Detroit Cricket Club",
+      "code": "MDCC",
+      "active": true
+    },
+    {
+      "id": 15,
+      "name": "Michigan Premier CC Lions",
+      "code": "MPCL",
+      "active": true
+    },
+    {
+      "id": 16,
+      "name": "Mid-Michigan CC  Heros",
+      "code": "MMCH",
+      "active": true
+    },
+    {
+      "id": 17,
+      "name": "Mid-Michigan CC Super Stars",
+      "code": "MMSS",
+      "active": true
+    },
+    {
+      "id": 18,
+      "name": "Motown Cricket Club",
+      "code": "MOCC",
+      "active": true
+    },
+    {
+      "id": 19,
+      "name": "Novi Cricket Club",
+      "code": "NVCC",
+      "active": true
+    },
+    {
+      "id": 20,
+      "name": "Oakland University CC",
+      "code": "OUCC",
+      "active": true
+    },
+    {
+      "id": 21,
+      "name": "P3 Challengers",
+      "code": "P3CC",
+      "active": true
+    },
+    {
+      "id": 22,
+      "name": "Photons Cricket Academy",
+      "code": "PHCA",
+      "active": true
+    },
+    {
+      "id": 23,
+      "name": "Rochester Hills Cricket Club",
+      "code": "RHCC",
+      "active": true
+    },
+    {
+      "id": 24,
+      "name": "Royal Knights Cricket Club Terminators",
+      "code": "RKTE",
+      "active": true
+    },
+    {
+      "id": 25,
+      "name": "Royal Knights Cricket Club Transformers",
+      "code": "RKTR",
+      "active": true
+    },
+    {
+      "id": 26,
+      "name": "Royal Stars Cricket Club",
+      "code": "RSCC",
+      "active": true
+    },
+    {
+      "id": 27,
+      "name": "Sparks Cricket Club",
+      "code": "SPCC",
+      "active": true
+    },
+    {
+      "id": 28,
+      "name": "Troy Cricket Association 1",
+      "code": "TCA1",
+      "active": true
+    },
+    {
+      "id": 29,
+      "name": "Troy Cricket Association 2",
+      "code": "TCA2",
+      "active": true
+    },
+    {
+      "id": 30,
+      "name": "Troy Cricket Association 3",
+      "code": "TCA3",
+      "active": true
+    },
+    {
+      "id": 31,
+      "name": "Troy Cricket Club",
+      "code": "TRCC",
+      "active": true
+    },
+    {
+      "id": 32,
+      "name": "United Cricket Club",
+      "code": "UNCC",
+      "active": true
+    },
+    {
+      "id": 33,
+      "name": "Viking Slayers CC",
+      "code": "VSCC",
+      "active": true
+    },
+    {
+      "id": 34,
+      "name": "Warriros CC",
+      "code": "WACC ",
+      "active": true
+    }
+  ]
+}
