@@ -1,7 +1,7 @@
 {
   "glt": [
     {
-      "menuitem": "Fixtures",
+      "menuItem": "Fixtures",
       "active": true,
       "order": 1
     },
