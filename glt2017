@@ -1,5 +1,24 @@
 {
   "glt": [
-      "Fixtures", "Standings", "Leader Board", "Teams"
+    {
+      "menuitem": "Fixtures",
+      "active": true,
+      "order": 1
+    },
+    {
+      "menuItem": "Standings",
+      "active": true,
+      "order": 2
+    },
+    {
+      "menuItem": "Leader Board",
+      "active": true,
+      "order": 3,
+    },
+    {
+      "menuItem": "Teams",
+      "active": true,
+      "order": 4,
+    },
   ]
 }
