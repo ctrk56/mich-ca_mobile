@@ -2,7 +2,7 @@
   "fixtures": [
     {
       "id": 1
-      "homeTeam" : "team1",
+      "homeTeam": "team1",
       "awayTeam": "team2",
       "matchDate": "04/20/2017",
       "ground": "Bloomer Park",
@@ -11,7 +11,7 @@
     },
     {
       "id": 2
-      "homeTeam" : "team1",
+      "homeTeam": "team1",
       "awayTeam": "team2",
       "matchDate": "04/21/2017",
       "ground": "Bloomer Park",
@@ -20,7 +20,7 @@
     },
     {
       "id": 3
-      "homeTeam" : "team1",
+      "homeTeam": "team1",
       "awayTeam": "team2",
       "matchDate": "04/20/2017",
       "ground": "Bloomer Park",
@@ -29,7 +29,7 @@
     },
     {
       "id": 4
-      "homeTeam" : "team1",
+      "homeTeam": "team1",
       "awayTeam": "team2",
       "matchDate": "04/20/2017",
       "ground": "Bloomer Park",
@@ -38,7 +38,7 @@
     },
     {
       "id": 5
-      "homeTeam" : "team1",
+      "homeTeam": "team1",
       "awayTeam": "team2",
       "matchDate": "04/20/2017",
       "time": "9:00am",
@@ -48,7 +48,7 @@
     },
     {
       "id": 6
-      "homeTeam" : "team1",
+      "homeTeam": "team1",
       "awayTeam": "team2",
       "matchDate": "04/20/2017",
       "time": "9:00am",
@@ -58,7 +58,7 @@
     },
     {
       "id": 7
-      "homeTeam" : "team1",
+      "homeTeam": "team1",
       "awayTeam": "team2",
       "matchDate": "04/20/2017",
       "time": "9:00am",
@@ -68,7 +68,7 @@
     },
     {
       "id": 8
-      "homeTeam" : "team1",
+      "homeTeam": "team1",
       "awayTeam": "team2",
       "matchDate": "04/20/2017",
       "time": "9:00am",
@@ -78,7 +78,7 @@
     },
     {
       "id": 9
-      "homeTeam" : "team1",
+      "homeTeam": "team1",
       "awayTeam": "team2",
       "matchDate": "04/20/2017",
       "time": "9:00am",
