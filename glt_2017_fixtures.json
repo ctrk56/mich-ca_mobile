@@ -4,7 +4,7 @@
       "id": 1
       "homeTeam": "team1",
       "awayTeam": "team2",
-      "group": "Plate",
+      "group": "group1",
       "matchDate": "04/20/2017",
       "ground": "Bloomer Park",
       "result": "",
@@ -14,7 +14,7 @@
       "id": 2
       "homeTeam": "team1",
       "awayTeam": "team2",
-      "group": "Plate",
+      "group": "group1",
       "matchDate": "04/21/2017",
       "ground": "Bloomer Park",
       "result": "",
@@ -24,7 +24,7 @@
       "id": 3
       "homeTeam": "team1",
       "awayTeam": "team2",
-      "group": "Plate",
+      "group": "group1",
       "matchDate": "04/20/2017",
       "ground": "Bloomer Park",
       "result": "",
@@ -34,7 +34,7 @@
       "id": 4
       "homeTeam": "team1",
       "awayTeam": "team2",
-      "group": "Shield",
+      "group": "group2",
       "matchDate": "04/20/2017",
       "ground": "Bloomer Park",
       "result": "",
@@ -44,7 +44,7 @@
       "id": 5
       "homeTeam": "team1",
       "awayTeam": "team2",
-      "group": "Shield",
+      "group": "group2",
       "matchDate": "04/20/2017",
       "time": "9:00am",
       "ground": "Wixom Park",
@@ -55,7 +55,7 @@
       "id": 6
       "homeTeam": "team1",
       "awayTeam": "team2",
-      "group": "Shield",
+      "group": "group2",
       "matchDate": "04/20/2017",
       "time": "9:00am",
       "ground": "Bloomer Park",
@@ -66,7 +66,7 @@
       "id": 7
       "homeTeam": "team1",
       "awayTeam": "team2",
-      "group": "Trophy",
+      "group": "group3",
       "matchDate": "04/20/2017",
       "time": "9:00am",
       "ground": "Bloomer Park",
@@ -77,7 +77,7 @@
       "id": 8
       "homeTeam": "team1",
       "awayTeam": "team2",
-      "group": "Trophy",
+      "group": "group3",
       "matchDate": "04/20/2017",
       "time": "9:00am",
       "ground": "Mirage Park",
@@ -88,7 +88,7 @@
       "id": 9
       "homeTeam": "team1",
       "awayTeam": "team2",
-      "group": "Trophy",
+      "group": "group3",
       "matchDate": "04/20/2017",
       "time": "9:00am",
       "ground": "Heritage Park",
