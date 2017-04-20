@@ -1,99 +1,301 @@
 {
   "fixtures": [
     {
-      "id": 1
-      "homeTeam": "team1",
-      "awayTeam": "team2",
-      "group": "group1",
-      "matchDate": "04/20/2017",
-      "ground": "Bloomer Park",
+      "time": "10:30 AM",
+      "homeTeam": "P3CC",
+      "awayTeam": "DCCC",
+      "matchDate": "Saturday, April 22, 2017",
+      "ground": "bloomer",
       "result": "",
-      "active": true
+      "active": "true"
     },
     {
-      "id": 2
-      "homeTeam": "team1",
-      "awayTeam": "team2",
-      "group": "group1",
-      "matchDate": "04/21/2017",
-      "ground": "Bloomer Park",
+      "time": "2:30 PM",
+      "homeTeam": "GLCC",
+      "awayTeam": "UNCC",
+      "matchDate": "Saturday, April 22, 2017",
+      "ground": "bloomer",
       "result": "",
-      "active": true
+      "active": "true"
     },
     {
-      "id": 3
-      "homeTeam": "team1",
-      "awayTeam": "team2",
-      "group": "group1",
-      "matchDate": "04/20/2017",
-      "ground": "Bloomer Park",
+      "time": "10:30 AM",
+      "homeTeam": "RSCC",
+      "awayTeam": "TCA3",
+      "matchDate": "Saturday, April 22, 2017",
+      "ground": "murphy",
       "result": "",
-      "active": true
+      "active": "true"
     },
     {
-      "id": 4
-      "homeTeam": "team1",
-      "awayTeam": "team2",
-      "group": "group2",
-      "matchDate": "04/20/2017",
-      "ground": "Bloomer Park",
+      "time": "2:30 PM",
+      "homeTeam": "SPCC",
+      "awayTeam": "VSCC",
+      "matchDate": "Saturday, April 22, 2017",
+      "ground": "murphy",
       "result": "",
-      "active": true
+      "active": "true"
     },
     {
-      "id": 5
-      "homeTeam": "team1",
-      "awayTeam": "team2",
-      "group": "group2",
-      "matchDate": "04/20/2017",
-      "time": "9:00am",
-      "ground": "Wixom Park",
+      "time": "10:30 AM",
+      "homeTeam": "OUCC",
+      "awayTeam": "MOCC",
+      "matchDate": "Saturday, April 22, 2017",
+      "ground": "lyan oaks",
       "result": "",
-      "active": true
+      "active": "true"
     },
     {
-      "id": 6
-      "homeTeam": "team1",
-      "awayTeam": "team2",
-      "group": "group2",
-      "matchDate": "04/20/2017",
-      "time": "9:00am",
-      "ground": "Bloomer Park",
+      "time": "2:30 PM",
+      "homeTeam": "DSKB",
+      "awayTeam": "TRCC",
+      "matchDate": "Saturday, April 22, 2017",
+      "ground": "lyan oaks",
       "result": "",
-      "active": true
+      "active": "true"
     },
     {
-      "id": 7
-      "homeTeam": "team1",
-      "awayTeam": "team2",
-      "group": "group3",
-      "matchDate": "04/20/2017",
-      "time": "9:00am",
-      "ground": "Bloomer Park",
+      "time": "10:30 AM",
+      "homeTeam": "MVCC",
+      "awayTeam": "WACC",
+      "matchDate": "Saturday, April 22, 2017",
+      "ground": "mirage",
       "result": "",
-      "active": true
+      "active": "true"
     },
     {
-      "id": 8
-      "homeTeam": "team1",
-      "awayTeam": "team2",
-      "group": "group3",
-      "matchDate": "04/20/2017",
-      "time": "9:00am",
-      "ground": "Mirage Park",
+      "time": "2:30 PM",
+      "homeTeam": "KWCC",
+      "awayTeam": "RKTR",
+      "matchDate": "Saturday, April 22, 2017",
+      "ground": "mirage",
       "result": "",
-      "active": true
+      "active": "true"
     },
     {
-      "id": 9
-      "homeTeam": "team1",
-      "awayTeam": "team2",
-      "group": "group3",
-      "matchDate": "04/20/2017",
-      "time": "9:00am",
-      "ground": "Heritage Park",
+      "time": "10:30 AM",
+      "homeTeam": "PHCA",
+      "awayTeam": "GPAN",
+      "matchDate": "Sunday, April 23, 2017",
+      "ground": "bloomer",
       "result": "",
-      "active": true
+      "active": "true"
+    },
+    {
+      "time": "2:30 PM",
+      "homeTeam": "FCCB",
+      "awayTeam": "TCA1",
+      "matchDate": "Sunday, April 23, 2017",
+      "ground": "bloomer",
+      "result": "",
+      "active": "true"
+    },
+    {
+      "time": "10:30 AM",
+      "homeTeam": "MMSS",
+      "awayTeam": "NVCC",
+      "matchDate": "Sunday, April 23, 2017",
+      "ground": "murphy",
+      "result": "",
+      "active": "true"
+    },
+    {
+      "time": "2:30 PM",
+      "homeTeam": "GTTC",
+      "awayTeam": "DSKW",
+      "matchDate": "Sunday, April 23, 2017",
+      "ground": "murphy",
+      "result": "",
+      "active": "true"
+    },
+    {
+      "time": "10:30 AM",
+      "homeTeam": "DEPC",
+      "awayTeam": "TCA2",
+      "matchDate": "Sunday, April 23, 2017",
+      "ground": "lyan oaks",
+      "result": "",
+      "active": "true"
+    },
+    {
+      "time": "2:30 PM",
+      "homeTeam": "MPCC",
+      "awayTeam": "MDCC",
+      "matchDate": "Sunday, April 23, 2017",
+      "ground": "lyan oaks",
+      "result": "",
+      "active": "true"
+    },
+    {
+      "time": "10:30 AM",
+      "homeTeam": "MMCH",
+      "awayTeam": "RKTE",
+      "matchDate": "Sunday, April 23, 2017",
+      "ground": "mirage",
+      "result": "",
+      "active": "true"
+    },
+    {
+      "time": "2:30 PM",
+      "homeTeam": "CHCC",
+      "awayTeam": "GDCC",
+      "matchDate": "Sunday, April 23, 2017",
+      "ground": "mirage",
+      "result": "",
+      "active": "true"
+    },
+    {
+      "time": "10:30 AM",
+      "homeTeam": "KWCC",
+      "awayTeam": "RSCC",
+      "matchDate": "Saturday, April 29, 2017",
+      "ground": "bloomer",
+      "result": "",
+      "active": "true"
+    },
+    {
+      "time": "2:30 PM",
+      "homeTeam": "WACC",
+      "awayTeam": "CHCC",
+      "matchDate": "Saturday, April 29, 2017",
+      "ground": "bloomer",
+      "result": "",
+      "active": "true"
+    },
+    {
+      "time": "10:30 AM",
+      "homeTeam": "DCCC",
+      "awayTeam": "GLCC",
+      "matchDate": "Saturday, April 29, 2017",
+      "ground": "murphy",
+      "result": "",
+      "active": "true"
+    },
+    {
+      "time": "2:30 PM",
+      "homeTeam": "MOCC",
+      "awayTeam": "DEPC",
+      "matchDate": "Saturday, April 29, 2017",
+      "ground": "murphy",
+      "result": "",
+      "active": "true"
+    },
+    {
+      "time": "10:30 AM",
+      "homeTeam": "GDCC",
+      "awayTeam": "MVCC",
+      "matchDate": "Saturday, April 29, 2017",
+      "ground": "lyan oaks",
+      "result": "",
+      "active": "true"
+    },
+    {
+      "time": "2:30 PM",
+      "homeTeam": "RKTR",
+      "awayTeam": "CAVS",
+      "matchDate": "Saturday, April 29, 2017",
+      "ground": "lyan oaks",
+      "result": "",
+      "active": "true"
+    },
+    {
+      "time": "10:30 AM",
+      "homeTeam": "MDCC",
+      "awayTeam": "PHCA",
+      "matchDate": "Saturday, April 29, 2017",
+      "ground": "mirage",
+      "result": "",
+      "active": "true"
+    },
+    {
+      "time": "2:30 PM",
+      "homeTeam": "GPAN",
+      "awayTeam": "MPCC",
+      "matchDate": "Saturday, April 29, 2017",
+      "ground": "mirage",
+      "result": "",
+      "active": "true"
+    },
+    {
+      "time": "10:30 AM",
+      "homeTeam": "VSCC",
+      "awayTeam": "MMSS",
+      "matchDate": "Sunday, April 30, 2017",
+      "ground": "bloomer",
+      "result": "",
+      "active": "true"
+    },
+    {
+      "time": "2:30 PM",
+      "homeTeam": "RKTE",
+      "awayTeam": "GTTC",
+      "matchDate": "Sunday, April 30, 2017",
+      "ground": "bloomer",
+      "result": "",
+      "active": "true"
+    },
+    {
+      "time": "10:30 AM",
+      "homeTeam": "UNCC",
+      "awayTeam": "P3CC",
+      "matchDate": "Sunday, April 30, 2017",
+      "ground": "murphy",
+      "result": "",
+      "active": "true"
+    },
+    {
+      "time": "2:30 PM",
+      "homeTeam": "TCA1",
+      "awayTeam": "DSKB",
+      "matchDate": "Sunday, April 30, 2017",
+      "ground": "murphy",
+      "result": "",
+      "active": "true"
+    },
+    {
+      "time": "8:30 AM",
+      "homeTeam": "DSKW",
+      "awayTeam": "MMCH",
+      "matchDate": "Sunday, April 30, 2017",
+      "ground": "lyan oaks",
+      "result": "",
+      "active": "true"
+    },
+    {
+      "time": "3:30 PM",
+      "homeTeam": "NVCC",
+      "awayTeam": "SPCC",
+      "matchDate": "Sunday, April 30, 2017",
+      "ground": "lyan oaks",
+      "result": "",
+      "active": "true"
+    },
+    {
+      "time": "10:30 AM",
+      "homeTeam": "TRCC",
+      "awayTeam": "FCCB",
+      "matchDate": "Sunday, April 30, 2017",
+      "ground": "mirage",
+      "result": "",
+      "active": "true"
+    },
+    {
+      "time": "2:30 PM",
+      "homeTeam": "TCA2",
+      "awayTeam": "OUCC",
+      "matchDate": "Sunday, April 30, 2017",
+      "ground": "mirage",
+      "result": "",
+      "active": "true"
+    },
+    {
+      "time": "12:00 PM",
+      "homeTeam": "TCA3",
+      "awayTeam": "CAVS",
+      "matchDate": "Sunday, April 30, 2017",
+      "ground": "lyan oaks",
+      "result": "",
+      "active": "true"
     }
   ]
 }
