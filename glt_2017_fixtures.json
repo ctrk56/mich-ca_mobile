@@ -7,7 +7,7 @@
       "matchDate": "Saturday, April 22, 2017",
       "ground": "bloomer",
       "result": "",
-      "active": "true"
+      "active": true
     },
     {
       "time": "2:30 PM",
@@ -16,7 +16,7 @@
       "matchDate": "Saturday, April 22, 2017",
       "ground": "bloomer",
       "result": "",
-      "active": "true"
+      "active": true
     },
     {
       "time": "10:30 AM",
@@ -25,7 +25,7 @@
       "matchDate": "Saturday, April 22, 2017",
       "ground": "murphy",
       "result": "",
-      "active": "true"
+      "active": true
     },
     {
       "time": "2:30 PM",
@@ -34,7 +34,7 @@
       "matchDate": "Saturday, April 22, 2017",
       "ground": "murphy",
       "result": "",
-      "active": "true"
+      "active": true
     },
     {
       "time": "10:30 AM",
@@ -43,7 +43,7 @@
       "matchDate": "Saturday, April 22, 2017",
       "ground": "lyan oaks",
       "result": "",
-      "active": "true"
+      "active": true
     },
     {
       "time": "2:30 PM",
@@ -52,7 +52,7 @@
       "matchDate": "Saturday, April 22, 2017",
       "ground": "lyan oaks",
       "result": "",
-      "active": "true"
+      "active": true
     },
     {
       "time": "10:30 AM",
@@ -61,7 +61,7 @@
       "matchDate": "Saturday, April 22, 2017",
       "ground": "mirage",
       "result": "",
-      "active": "true"
+      "active": true
     },
     {
       "time": "2:30 PM",
@@ -70,7 +70,7 @@
       "matchDate": "Saturday, April 22, 2017",
       "ground": "mirage",
       "result": "",
-      "active": "true"
+      "active": true
     },
     {
       "time": "10:30 AM",
@@ -79,7 +79,7 @@
       "matchDate": "Sunday, April 23, 2017",
       "ground": "bloomer",
       "result": "",
-      "active": "true"
+      "active": true
     },
     {
       "time": "2:30 PM",
@@ -88,7 +88,7 @@
       "matchDate": "Sunday, April 23, 2017",
       "ground": "bloomer",
       "result": "",
-      "active": "true"
+      "active": true
     },
     {
       "time": "10:30 AM",
@@ -97,7 +97,7 @@
       "matchDate": "Sunday, April 23, 2017",
       "ground": "murphy",
       "result": "",
-      "active": "true"
+      "active": true
     },
     {
       "time": "2:30 PM",
@@ -106,7 +106,7 @@
       "matchDate": "Sunday, April 23, 2017",
       "ground": "murphy",
       "result": "",
-      "active": "true"
+      "active": true
     },
     {
       "time": "10:30 AM",
@@ -115,7 +115,7 @@
       "matchDate": "Sunday, April 23, 2017",
       "ground": "lyan oaks",
       "result": "",
-      "active": "true"
+      "active": true
     },
     {
       "time": "2:30 PM",
@@ -124,7 +124,7 @@
       "matchDate": "Sunday, April 23, 2017",
       "ground": "lyan oaks",
       "result": "",
-      "active": "true"
+      "active": true
     },
     {
       "time": "10:30 AM",
@@ -133,7 +133,7 @@
       "matchDate": "Sunday, April 23, 2017",
       "ground": "mirage",
       "result": "",
-      "active": "true"
+      "active": true
     },
     {
       "time": "2:30 PM",
@@ -142,7 +142,7 @@
       "matchDate": "Sunday, April 23, 2017",
       "ground": "mirage",
       "result": "",
-      "active": "true"
+      "active": true
     },
     {
       "time": "10:30 AM",
@@ -151,7 +151,7 @@
       "matchDate": "Saturday, April 29, 2017",
       "ground": "bloomer",
       "result": "",
-      "active": "true"
+      "active": true
     },
     {
       "time": "2:30 PM",
@@ -160,7 +160,7 @@
       "matchDate": "Saturday, April 29, 2017",
       "ground": "bloomer",
       "result": "",
-      "active": "true"
+      "active": true
     },
     {
       "time": "10:30 AM",
@@ -169,7 +169,7 @@
       "matchDate": "Saturday, April 29, 2017",
       "ground": "murphy",
       "result": "",
-      "active": "true"
+      "active": true
     },
     {
       "time": "2:30 PM",
@@ -178,7 +178,7 @@
       "matchDate": "Saturday, April 29, 2017",
       "ground": "murphy",
       "result": "",
-      "active": "true"
+      "active": true
     },
     {
       "time": "10:30 AM",
@@ -187,7 +187,7 @@
       "matchDate": "Saturday, April 29, 2017",
       "ground": "lyan oaks",
       "result": "",
-      "active": "true"
+      "active": true
     },
     {
       "time": "2:30 PM",
@@ -196,7 +196,7 @@
       "matchDate": "Saturday, April 29, 2017",
       "ground": "lyan oaks",
       "result": "",
-      "active": "true"
+      "active": true
     },
     {
       "time": "10:30 AM",
@@ -205,7 +205,7 @@
       "matchDate": "Saturday, April 29, 2017",
       "ground": "mirage",
       "result": "",
-      "active": "true"
+      "active": true
     },
     {
       "time": "2:30 PM",
@@ -214,7 +214,7 @@
       "matchDate": "Saturday, April 29, 2017",
       "ground": "mirage",
       "result": "",
-      "active": "true"
+      "active": true
     },
     {
       "time": "10:30 AM",
@@ -223,7 +223,7 @@
       "matchDate": "Sunday, April 30, 2017",
       "ground": "bloomer",
       "result": "",
-      "active": "true"
+      "active": true
     },
     {
       "time": "2:30 PM",
@@ -232,7 +232,7 @@
       "matchDate": "Sunday, April 30, 2017",
       "ground": "bloomer",
       "result": "",
-      "active": "true"
+      "active": true
     },
     {
       "time": "10:30 AM",
@@ -241,7 +241,7 @@
       "matchDate": "Sunday, April 30, 2017",
       "ground": "murphy",
       "result": "",
-      "active": "true"
+      "active": true
     },
     {
       "time": "2:30 PM",
@@ -250,7 +250,7 @@
       "matchDate": "Sunday, April 30, 2017",
       "ground": "murphy",
       "result": "",
-      "active": "true"
+      "active": true
     },
     {
       "time": "8:30 AM",
@@ -259,7 +259,7 @@
       "matchDate": "Sunday, April 30, 2017",
       "ground": "lyan oaks",
       "result": "",
-      "active": "true"
+      "active": true
     },
     {
       "time": "3:30 PM",
@@ -268,7 +268,7 @@
       "matchDate": "Sunday, April 30, 2017",
       "ground": "lyan oaks",
       "result": "",
-      "active": "true"
+      "active": true
     },
     {
       "time": "10:30 AM",
@@ -277,7 +277,7 @@
       "matchDate": "Sunday, April 30, 2017",
       "ground": "mirage",
       "result": "",
-      "active": "true"
+      "active": true
     },
     {
       "time": "2:30 PM",
@@ -286,7 +286,7 @@
       "matchDate": "Sunday, April 30, 2017",
       "ground": "mirage",
       "result": "",
-      "active": "true"
+      "active": true
     },
     {
       "time": "12:00 PM",
@@ -295,7 +295,7 @@
       "matchDate": "Sunday, April 30, 2017",
       "ground": "lyan oaks",
       "result": "",
-      "active": "true"
+      "active": true
     }
   ]
 }
