@@ -2,23 +2,28 @@
   "links": [
     {
       "id":1,
-      "title": "Google",
-      "link": "http://google.com",
+      "title": "Mich-CA Declaration Sheet",
+      "link": "http://mich-ca.org/vcdocs/michca/uploaded/all_docs/2017%20mich-ca%20declaration%20sheet-21042017-020947.pdf",
       "active": true
     },{
       "id":2,
-      "title": "CNET",
-      "link": "https://cnet.com",
+      "title": "Mich-CA Match Summary Sheet",
+      "link": "http://mich-ca.org/vcdocs/michca/uploaded/all_docs/2017%20mich-ca%20match%20summary%20sheet-21042017-020949.pdf",
       "active": true
     },{
       "id":3,
-      "title": "Engadget",
-      "link": "https://engadget.com",
+      "title": "Mich-CA Example Match Summary Sheet",
+      "link": "http://mich-ca.org/vcdocs/michca/uploaded/all_docs/2017%20mich-ca%20example%20match%20summary%20sheet-21042017-020950.pdf",
       "active": true
     },{
       "id":4,
-      "title": "Wired",
-      "link": "https://wired.com",
+      "title": "Summer Mich-CA Team Roster Template",
+      "link": "http://mich-ca.org/vcdocs/michca/uploaded/all_docs/mich-ca_roster%20template-12042017-091743.xlsx",
+      "active": true
+    },{
+      "id":5,
+      "title": "CricHQ App Scoring",
+      "link": "http://mich-ca.org/vcdocs/michca/uploaded/all_docs/2016_crichq_scoring_copy-21042016-111130.ppt",
       "active": true
     }
   ]
