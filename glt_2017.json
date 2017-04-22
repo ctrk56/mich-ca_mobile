@@ -7,18 +7,23 @@
     },
     {
       "menuItem": "Standings",
-      "active": true,
+      "active": false,
       "order": 2
     },
     {
       "menuItem": "Leaderboard",
-      "active": true,
+      "active": false,
       "order": 3
     },
     {
       "menuItem": "Teams",
       "active": true,
       "order": 4
+    },
+    {
+      "menuItem": "Links",
+      "active": true,
+      "order": 5
     }
   ]
 }
