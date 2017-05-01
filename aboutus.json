@@ -30,6 +30,78 @@
       "contact": "communications@michca.org",
       "imageURL": "",
       "active": true
+    },{
+      "name": "KARTHEEK YALAMANCHILLI",
+      "designation":"Director Of Operations",
+      "contact": "communications@michca.org",
+      "imageURL": "",
+      "active": true
+    },{
+      "name": "ANUPAM SHARMA",
+      "designation":"Tournament Director F40",
+      "contact": "communications@michca.org",
+      "imageURL": "",
+      "active": true
+    },{
+      "name": "ONIKAR AKOLKAR",
+      "designation":"Tournament Director T20 Shield",
+      "contact": "communications@michca.org",
+      "imageURL": "",
+      "active": true
+    },{
+      "name": "AKSHAY SODAGAM",
+      "designation":"Tournament Director T20 Trophy",
+      "contact": "communications@michca.org",
+      "imageURL": "",
+      "active": true
+    },{
+      "name": "SYED HAQUE",
+      "designation":"Tournament Director T20 Plate",
+      "contact": "communications@michca.org",
+      "imageURL": "",
+      "active": true
+    },{
+      "name": "SARWAT IQBAL",
+      "designation":"Grounds Committee",
+      "contact": "communications@michca.org",
+      "imageURL": "",
+      "active": true
+    },{
+      "name": "ANUPAM SHARMA",
+      "designation":"Scheduling Committee",
+      "contact": "communications@michca.org",
+      "imageURL": "",
+      "active": true
+    },{
+      "name": "AMER AFZALUDDIN",
+      "designation":"Coaching Committee",
+      "contact": "communications@michca.org",
+      "imageURL": "",
+      "active": true
+    },{
+      "name": "TEJASWI PRABHAKAR",
+      "designation":"Statistics Committee",
+      "contact": "micricketstats@gmail.com",
+      "imageURL": "",
+      "active": true
+    },{
+      "name": "VAMSY TIRUMALASETTI",
+      "designation":"Umpiring Committee",
+      "contact": "communications@michca.org",
+      "imageURL": "",
+      "active": true
+    },{
+      "name": "VIKRAM CHILUKOTI",
+      "designation":"Website",
+      "contact": "communications@michca.org",
+      "imageURL": "",
+      "active": true
+    },{
+      "name": "YOGENDAR SEGAN",
+      "designation":"Events Committee",
+      "contact": "communications@michca.org",
+      "imageURL": "",
+      "active": true
     }
   ]
 }
