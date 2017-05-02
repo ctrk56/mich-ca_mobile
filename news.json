@@ -1,6 +1,15 @@
 {
    "news": [
 	   {
+	      "id": 5,
+	      "title" : "GLT 2017 Week 2",
+	      "subtitle" : "Games rescheduled",
+	      "message" : "Due to the rain overnight, and wet conditions in all the fields and rain forecast all day today, the games scheduled today , Sunday April 30th have been rescheduled to the reserve day , next Saturday May 6th, Detailed Schedule will be sent out in the next few days. \n Respective teams have already been informed , this is the official communication  from MIch-CA about the  reschedule. ",	      "role" : "admin",
+	      "expirationDate" : "01/6/2017",
+	      "important": false,
+	      "active": true
+	   },
+	   {
 	      "id": 4,
 	      "title" : "GLT 2017 Week 2 - Games",
 	      "subtitle" : "Sunday Games Cancelled",
