@@ -1,6 +1,14 @@
 {
    "news": [
 	   {
+	      "id": 7,
+	      "title" : "GLT Week 3",
+	      "subtitle" : "May 6th Games Cancelled",
+	      "message" : "Due to the non stop rain from the last 2 days still continuing, the grounds for the games this Saturday in all the scheduled areas are in bad and unplayable conditions.ALL the games scheduled for Saturday have been declared rained out with the points split between the teams.\n\nWe request all the teams scheduled with the games tomorrow, to send their declaration sheet with playing 12 to micricketstats@gmail.com ASAP.\n\nPre-Quarterfinals scheduled on Sunday are active at this point and top 2 teams from each pool will move on to the playoffs. Player Eligibility for the playoffs is 1 game.\n\nAfter all the declaration sheets are sent, our stats team would compile a list of eligible players for the teams playing the Sunday Pre-QF's.\n\nThe schedule for the Pre-QF's with the team names along with the umpiring information will be sent out as soon as we have all the necessary information.",
+	      "expirationDate" : "01/6/2017",
+	      "important": true,
+	      "active": true
+	   },{
 	      "id": 6,
 	      "title" : "T20 & F40 Registration",
 	      "subtitle" : "CLOSED",
