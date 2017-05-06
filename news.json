@@ -1,6 +1,15 @@
 {
    "news": [
 	   {
+	      "id": 8,
+	      "title" : "GLT Week 3",
+	      "subtitle" : "Schedule Updates",
+	      "message": "Schedule  and umpires information for the Pre Quarterfinals games tomorrow is attached.\n\nNote: Change in the venue from Mirage to Lyon Oaks to accommodate better ground conditions.",
+	      "expirationDate" : "01/6/2017",
+	      "important": true,
+	      "active": true
+	   },
+	   {
 	      "id": 7,
 	      "title" : "GLT Week 3",
 	      "subtitle" : "May 6th Games Cancelled",
