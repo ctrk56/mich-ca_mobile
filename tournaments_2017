@@ -1,0 +1,29 @@
+{
+   "tournaments": [
+      {
+        "id": 1,
+        "tournament": "GLT",
+        "active": true
+      },
+      {
+        "id": 2,
+        "tournament": "T20",
+        "active": true
+      },
+      {
+        "id": 3,
+        "tournament": "F40",
+        "active": true
+      },
+      {
+        "id": 4,
+        "tournament": "Diversity Cup",
+        "active": true
+      },
+      {
+        "id": 5,
+        "tournament": "Corporate Cup",
+        "active": true
+      }
+   ]
+}
