@@ -18,12 +18,12 @@
       {
         "id": 4,
         "tournament": "Diversity Cup",
-        "active": true
+        "active": false
       },
       {
         "id": 5,
         "tournament": "Corporate Cup",
-        "active": true
+        "active": false
       }
    ]
 }
