@@ -18,7 +18,7 @@
     </ul>
   </div>
 
-  <div data-role="footer" visible=false>
+  <div data-role="footer" hidden="true">
     <h1>Footer Text</h1>
   </div>
 </div> 
@@ -31,7 +31,7 @@
           //console.log(JSON.stringify(result));
         var items = [];
         $.each(result.news, function() {
-            items += '<li><h3>'+this.title+'</h3></li>';
+            items += '<li message=this.message subtitle=this.subtitle><h3>'+this.title+'</h3></li>';
         });
         $('#newsList').html(items);
         $('#newsList').listview().listview('refresh');
