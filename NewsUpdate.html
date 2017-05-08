@@ -30,7 +30,7 @@
       $.ajax({url: "news.json", success: function(result){
           //console.log(JSON.stringify(result));
         var items = [];
-        $.each(data.news, function() {
+        $.each(result.news, function() {
             items += '<li><h3>'+this.title+'</h3></li>';
         });
         $('#newsList').html(items);
