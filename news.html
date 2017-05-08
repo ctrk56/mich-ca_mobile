@@ -31,7 +31,7 @@
           //console.log(JSON.stringify(result));
         var items = [];
         $.each(result.news, function() {
-            items += '<li><div data-role="collapsible"><h3>'+this.title+'</h3><p white-space="normal">'+this.message+'</p></div></li>';
+            items += '<li><div data-role="collapsible"><h3>'+this.title+'</h3><p style="white-space:normal !important">'+this.message+'</p></div></li>';
         });
         $('#newsList').html(items);
         $('#newsList').listview().listview('refresh');
