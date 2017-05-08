@@ -14,10 +14,7 @@
   </div>
 
   <div data-role="main" class="ui-content">
-    <ul data-role="listview">
-      <li><a href="acura.html">Acura</a></li>
-      <li><a href="audi.html">Audi</a></li>
-      <li><a href="bmw.html">BMW</a></li>
+    <ul id="newsList" data-role="listview">
     </ul>
   </div>
 
@@ -31,7 +28,13 @@
   $(document).ready(function(){
       var news = "empty";
       $.ajax({url: "news.json", success: function(result){
-          alert(JSON.stringify(result));
+          //console.log(JSON.stringify(result));
+        var items = [];
+        $.each(data.news, function() {
+            items += '<li><h3>'+this.title+'</h3></li>';
+        });
+        $('#newsList').html(items);
+        $('#newsList').listview().listview('refresh');
       }});
   });
 </script>
