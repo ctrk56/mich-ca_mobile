@@ -59,7 +59,7 @@
          "latitude":0,
          "longitude": 0,
          "active": true
-      },
+      }, 
       {  
          "name":"Heritage Park, Canton",
          "address":"46202 Heritage Park Rd",
