@@ -23,5 +23,13 @@
 </div> 
 
 </body>
+<script>
+  $(document).ready(function(){
+      var news = "empty";
+      $.ajax({url: "news.json", success: function(result){
+          alert(JSON.stringify(result));
+      }});
+  });
+</script>
 </html>
 
