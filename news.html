@@ -28,7 +28,14 @@
   $(document).ready(function(){
       var news = "empty";
       $.ajax({url: "news.json", success: function(result){
-          //console.log(JSON.stringify(result));
+        var obj = {
+            name: 'Dhayalan',
+            score: 100
+        };
+        result.news.append(obj);
+
+        localStorage.setItem('gameStorage', JSON.stringify(result));
+        
         var items = [];
         $.each(result.news, function() {
             items += '<li><div data-role="collapsible"><h2>'+this.title+'</h2><h3>'+this.subtitle+'</h3><p style="white-space:normal !important">'+this.message+'</p></div></li>';
