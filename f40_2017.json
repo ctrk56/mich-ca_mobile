@@ -2,7 +2,7 @@
   "f40": [
     {
       "menuItem": "Fixtures",
-      "active": true,
+      "active": false,
       "order": 1
     },
     {
