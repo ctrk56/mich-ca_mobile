@@ -2,233 +2,121 @@
   "teams": [
     {
       "id": 1,
-      "name": "Cavaliers Cricket Club of Windsor",
-      "code": "CAVS",
-      "pool":"Pool 2",
+      "name": "Greater Detroit Cricket Club Panthers",
+      "code": "GPAN",
+      "pool":"F40",
       "active": true
     },
     {
       "id": 2,
-      "name": "Chargers CC",
-      "code": "CHCC",
-      "pool":"Pool 7",
+      "name": "Macomb Cricket Club",
+      "code": "MACC",
+      "pool":"F40",
       "active": true
     },
     {
       "id": 3,
-      "name": "Detroit Challengers CC",
-      "code": "DCCC",
-      "pool":"Pool 3",
+      "name": "Michigan Premier CC Jaguars",
+      "code": "MPCJ",
+      "pool":"F40",
       "active": true
     },
     {
       "id": 4,
-      "name": "Detroit Engineered Products CC ",
-      "code": "DEPC",
-      "pool":"Pool 5",
+      "name": "Metro Detroit Cricket Club",
+      "code": "MDCC",
+      "pool":"F40",
       "active": true
     },
     {
       "id": 5,
-      "name": "Detroit Super Kings Bulls",
-      "code": "DSKB",
-      "pool":"Pool 8",
+      "name": "Novi Cricket Club",
+      "code": "NVCC",
+      "pool":"F40",
       "active": true
     },
     {
       "id": 6,
       "name": "Detroit Super Kings Warriors",
       "code": "DSKW",
-      "pool":"Pool 6",
+      "pool":"F40",
       "active": true
     },
     {
       "id": 7,
-      "name": "Farmington Cricket Club Braves",
-      "code": "FCCB",
-      "pool":"Pool 8",
+      "name": "United Cricket Club",
+      "code": "UNCC",
+      "pool":"F40",
       "active": true
     },
     {
       "id": 8,
-      "name": "Great Lakes Cricket Club",
-      "code": "GLCC",
-      "pool":"Pool 3",
+      "name": "Troy Cricket Club Detroit Indians",
+      "code": "DTIN",
+      "pool":"F40",
       "active": true
-    },
+    }
     {
       "id": 9,
-      "name": "Greater Detroit Cricket Club Greens",
-      "code": "GDCC",
-      "pool":"Pool 7",
+      "name": "Royal Knights Cricket Club",
+      "code": "RKCC",
+      "pool":"F40",
       "active": true
     },
     {
       "id": 10,
-      "name": "Greater Detroit Cricket Club Panthers",
-      "code": "GPAN",
-      "pool":"Pool 4",
+      "name": "Troy Cricket Association Wizards",
+      "code": "TCAW",
+      "pool":"F40",
       "active": true
     },
     {
       "id": 11,
-      "name": "Greater Troy Tigers CC",
-      "code": "GTTC",
-      "pool":"Pool 6",
+      "name": "Detroit Challengers Cricket Club",
+      "code": "DCCC",
+      "pool":"F40",
       "active": true
     },
     {
       "id": 12,
-      "name": "Kalinga Warriors Cricket Club",
-      "code": "KWCC",
-      "pool":"Pool 2",
+      "name": "Detroit Super Kings Bulbs",
+      "code": "DSKB",
+      "pool":"F40",
       "active": true
     },
     {
       "id": 13,
-      "name": "Mavericks Cricket Club",
-      "code": "MVCC",
-      "pool":"Pool 7",
+      "name": "Greater Detroit Cricket Club Greens",
+      "code": "GDCC",
+      "pool":"F40",
       "active": true
     },
     {
       "id": 14,
-      "name": "Metro Detroit Cricket Club",
-      "code": "MDCC",
-      "pool":"Pool 4",
+      "name": "Lions Cricket Club",
+      "code": "LNCC",
+      "pool":"F40",
       "active": true
     },
     {
       "id": 15,
-      "name": "Michigan Premier CC Lions",
-      "code": "MPCL",
-      "pool":"Pool 4",
+      "name": "Motown Cricket Club",
+      "code": "MOCC",
+      "pool":"F40",
       "active": true
     },
     {
       "id": 16,
-      "name": "Mid-Michigan CC  Heros",
-      "code": "MMCH",
-      "pool":"Pool 6",
+      "name": "P3 Challengers",
+      "code": "P3CC",
+      "pool":"F40",
       "active": true
     },
     {
       "id": 17,
-      "name": "Mid-Michigan CC Super Stars",
-      "code": "MMSS",
-      "pool":"Pool 1",
-      "active": true
-    },
-    {
-      "id": 18,
-      "name": "Motown Cricket Club",
-      "code": "MOCC",
-      "pool":"Pool 5",
-      "active": true
-    },
-    {
-      "id": 19,
-      "name": "Novi Cricket Club",
-      "code": "NVCC",
-      "pool":"Pool 1",
-      "active": true
-    },
-    {
-      "id": 20,
-      "name": "Oakland University CC",
-      "code": "OUCC",
-      "pool":"Pool 5",
-      "active": true
-    },
-    {
-      "id": 21,
-      "name": "P3 Challengers",
-      "code": "P3CC",
-      "pool":"Pool 3",
-      "active": true
-    },
-    {
-      "id": 22,
-      "name": "Photons Cricket Academy",
-      "code": "PHCA",
-      "pool":"Pool 4",
-      "active": true
-    },
-    {
-      "id": 24,
-      "name": "Royal Knights Cricket Club Terminators",
-      "code": "RKTE",
-      "pool":"Pool 2",
-      "active": true
-    },
-    {
-      "id": 25,
-      "name": "Royal Knights Cricket Club Transformers",
-      "code": "RKTR",
-      "pool":"Pool 6",
-      "active": true
-    },
-    {
-      "id": 26,
-      "name": "Royal Stars Cricket Club",
-      "code": "RSCC",
-      "pool":"Pool 2",
-      "active": true
-    },
-    {
-      "id": 27,
-      "name": "Sparks Cricket Club",
-      "code": "SPCC",
-      "pool":"Pool 1",
-      "active": true
-    },
-    {
-      "id": 28,
-      "name": "Troy Cricket Association 1",
-      "code": "TCA1",
-      "pool":"Pool 8",
-      "active": true
-    },
-    {
-      "id": 29,
-      "name": "Troy Cricket Association 2",
-      "code": "TCA2",
-      "pool":"Pool 5",
-      "active": true
-    },
-    {
-      "id": 30,
-      "name": "Troy Cricket Association 3",
-      "code": "TCA3",
-      "pool":"Pool 2",
-      "active": true
-    },
-    {
-      "id": 31,
-      "name": "Troy Cricket Club",
-      "code": "TRCC",
-      "pool":"Pool 8",
-      "active": true
-    },
-    {
-      "id": 32,
-      "name": "United Cricket Club",
-      "code": "UNCC",
-      "pool":"Pool 3",
-      "active": true
-    },
-    {
-      "id": 33,
-      "name": "Viking Slayers CC",
-      "code": "VSCC",
-      "pool":"Pool 1",
-      "active": true
-    },
-    {
-      "id": 34,
-      "name": "Warriros CC",
-      "code": "WACC ",
-      "pool":"Pool 7",
+      "name": "Troy Cricket Association Smashers",
+      "code": "TCAS",
+      "pool":"F40",
       "active": true
     }
   ]
