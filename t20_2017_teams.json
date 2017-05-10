@@ -1,3 +1,299 @@
 {
-  "teams": []
+    "teams": [
+        {
+            "id": 1,
+            "name": "Bangladesh Tigers CC ",
+            "code": " BTCC",
+            "pool": "T20 Shield",
+            "active": true
+        }, {
+            "id": 2,
+            "name": "Novi Cricket Club ",
+            "code": " NVCC",
+            "pool": "T20 Shield",
+            "active": true
+        }, {
+            "id": 3,
+            "name": "Warriros CC ",
+            "code": " WACC ",
+            "pool": "T20 Shield",
+            "active": true
+        }, {
+            "id": 4,
+            "name": "Chargers CC ",
+            "code": " CHCC",
+            "pool": "T20 Shield",
+            "active": true
+        }, {
+            "id": 5,
+            "name": "Detroit Super Kings ",
+            "code": " DSKW",
+            "pool": "T20 Shield",
+            "active": true
+        }, {
+            "id": 6,
+            "name": "Troy Cricket Club ",
+            "code": " TRCE",
+            "pool": "T20 Shield",
+            "active": true
+        }, {
+            "id": 7,
+            "name": "Greater Detroit Cricket Club Panthers ",
+            "code": " GPAN",
+            "pool": "T20 Shield",
+            "active": true
+        }, {
+            "id": 8,
+            "name": "Macomb Cricket Club Titans ",
+            "code": " MACT",
+            "pool": "T20 Shield",
+            "active": true
+        }, {
+            "id": 9,
+            "name": "Metro Detroit Cricket Club ",
+            "code": " MDCC",
+            "pool": "T20 Shield",
+            "active": true
+        }, {
+            "id": 10,
+            "name": "Michigan Premier CC Lions",
+            "code": " MPCL",
+            "pool": "T20 Shield",
+            "active": true
+        }, {
+            "id": 11,
+            "name": "Rochester Hills Cricket Club ",
+            "code": " RHCC",
+            "pool": "T20 Shield",
+            "active": true
+        }, {
+            "id": 12,
+            "name": "Troy Cricket Association Champions ",
+            "code": " TCAC",
+            "pool": "T20 Shield",
+            "active": true
+        }, {
+            "id": 13,
+            "name": "Royal Knights Cricket Club Terminators",
+            "code": " RKTE",
+            "pool": "T20 Shield",
+            "active": true
+        }, {
+            "id": 14,
+            "name": "Lions Cricket Club ",
+            "code": " LNCC",
+            "pool": "T20 Shield",
+            "active": true
+        }, {
+            "id": 15,
+            "name": "Greater Detroit Cricket Club Greens ",
+            "code": " GDCC",
+            "pool": "T20 Trophy",
+            "active": true
+        }, {
+            "id": 16,
+            "name": "United Cricket Club ",
+            "code": " UNCC",
+            "pool": "T20 Trophy",
+            "active": true
+        }, {
+            "id": 17,
+            "name": "Mid Michigan CC ",
+            "code": " MMSS",
+            "pool": "T20 Trophy",
+            "active": true
+        }, {
+            "id": 18,
+            "name": "Detroit Challengers CC ",
+            "code": " DCCC",
+            "pool": "T20 Trophy",
+            "active": true
+        }, {
+            "id": 19,
+            "name": "Detroit Engineered Products CC  ",
+            "code": "DEPC",
+            "pool": "T20 Trophy",
+            "active": true
+        }, {
+            "id": 20,
+            "name": "Mid Michigan CC",
+            "code": " MMCH",
+            "pool": "T20 Trophy",
+            "active": true
+        }, {
+            "id": 21,
+            "name": "Great Lakes Cricket Club ",
+            "code": " GLCC",
+            "pool": "T20 Trophy",
+            "active": true
+        }, {
+            "id": 22,
+            "name": "Killers CC ",
+            "code": " KLCC",
+            "pool": "T20 Trophy",
+            "active": true
+        }, {
+            "id": 23,
+            "name": "Detroit Royals Cricket Club ",
+            "code": " DRCC",
+            "pool": "T20 Trophy",
+            "active": true
+        }, {
+            "id": 24,
+            "name": "Viking Slayers CC ",
+            "code": " VSCC",
+            "pool": "T20 Trophy",
+            "active": true
+        }, {
+            "id": 25,
+            "name": "Lawerence Technical University CC ",
+            "code": " LTBD",
+            "pool": "T20 Trophy",
+            "active": true
+        }, {
+            "id": 26,
+            "name": "Oakland University CC ",
+            "code": " OUCC",
+            "pool": "T20 Trophy",
+            "active": true
+        }, {
+            "id": 27,
+            "name": "Punjab CC Kings ",
+            "code": " PCCK",
+            "pool": "T20 Trophy",
+            "active": true
+        }, {
+            "id": 28,
+            "name": "Bengals CC ",
+            "code": " BECC",
+            "pool": "T20 Trophy",
+            "active": true
+        }, {
+            "id": 29,
+            "name": "Troy Cricket Association Stars ",
+            "code": " TCAS",
+            "pool": "T20 Plate",
+            "active": true
+        }, {
+            "id": 30,
+            "name": "University of Toledo Rockets ",
+            "code": " UTCC",
+            "pool": "T20 Plate",
+            "active": true
+        }, {
+            "id": 31,
+            "name": "Aadukalam CC ",
+            "code": " ADCC",
+            "pool": "T20 Plate",
+            "active": true
+        }, {
+            "id": 32,
+            "name": "Photons Cricket Academy ",
+            "code": " PHCA",
+            "pool": "T20 Plate",
+            "active": true
+        }, {
+            "id": 33,
+            "name": "Royal Stars Cricket Club ",
+            "code": " RSCC",
+            "pool": "T20 Plate",
+            "active": true
+        }, {
+            "id": 34,
+            "name": "Greater Troy Tigers CC ",
+            "code": " GTTC",
+            "pool": "T20 Plate",
+            "active": true
+        }, {
+            "id": 35,
+            "name": "Bangladesh Tigers Cricket Academy",
+            "code": " BTCA",
+            "pool": "T20 Plate",
+            "active": true
+        }, {
+            "id": 36,
+            "name": "Brownstown Cricket Club ",
+            "code": " BSCC",
+            "pool": "T20 Plate",
+            "active": true
+        }, {
+            "id": 37,
+            "name": "Farmington Cricket Club Braves",
+            "code": " FCCB",
+            "pool": "T20 Plate",
+            "active": true
+        }, {
+            "id": 38,
+            "name": "Kalinga Warriors Cricket Club ",
+            "code": " KWCC",
+            "pool": "T20 Plate",
+            "active": true
+        }, {
+            "id": 39,
+            "name": "Karnataka Eagles Cricket Club ",
+            "code": " KECC",
+            "pool": "T20 Plate",
+            "active": true
+        }, {
+            "id": 40,
+            "name": "Knight Riders Cricket Club ",
+            "code": " KRCC",
+            "pool": "T20 Plate",
+            "active": true
+        }, {
+            "id": 41,
+            "name": "Macomb Cricket Club Olympians",
+            "code": " MACO",
+            "pool": "T20 Plate",
+            "active": true
+        }, {
+            "id": 42,
+            "name": "Mavericks Cricket Club ",
+            "code": " MVCC",
+            "pool": "T20 Plate",
+            "active": true
+        }, {
+            "id": 43,
+            "name": "MI Rangers ",
+            "code": " MIRC",
+            "pool": "T20 Plate",
+            "active": true
+        }, {
+            "id": 44,
+            "name": "P3 Challengers ",
+            "code": " P3CC",
+            "pool": "T20 Plate",
+            "active": true
+        }, {
+            "id": 45,
+            "name": "Royal Knights Cricket Club Transformers",
+            "code": " RKTR",
+            "pool": "T20 Plate",
+            "active": true
+        }, {
+            "id": 46,
+            "name": "Sparks Cricket Club ",
+            "code": " SPCC",
+            "pool": "T20 Plate",
+            "active": true
+        }, {
+            "id": 47,
+            "name": "Troy Cricket Association Patriorts ",
+            "code": " TCAP",
+            "pool": "T20 Plate",
+            "active": true
+        }, {
+            "id": 48,
+            "name": "United Knights Cricket Club ",
+            "code": " UKCC",
+            "pool": "T20 Plate",
+            "active": true
+        }, {
+            "id": 49,
+            "name": "ZF Cricket Club ",
+            "code": " ZFCC",
+            "pool": "T20 Plate",
+            "active": true
+        }
+    ]
 }
