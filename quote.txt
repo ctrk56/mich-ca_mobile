@@ -2,6 +2,7 @@ MichCA: Is a non-profit organization establised in 2001.
 
 1> We are thinking of a basic update(MVP) to the site http://mich-ca.org. 
 2> Easily maintainable like just using JS jQuery html pages
+2a> Layout and structre can be the same. Just need a face lift to the website.
 3> Except Tournaments and Points section rest of the content will be static.
 4> We are planning to buy data feed (APIs) from cricHQ and would like incorporate that.
 5> The data feed will be for Tournaments and Points (this is where it will be tricky) but again as simple as possible.
