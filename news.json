@@ -14,7 +14,7 @@
 	      "subtitle" : "Schedule Updates",
 	      "message": "Schedule  and umpires information for the Pre Quarterfinals games tomorrow is attached.\n\nNote: Change in the venue from Mirage to Lyon Oaks to accommodate better ground conditions.",
 	      "expirationDate" : "01/6/2017",
-	      "important": true,
+	      "important": false,
 	      "active": true
 	   },
 	   {
@@ -23,7 +23,7 @@
 	      "subtitle" : "May 6th Games Cancelled",
 	      "message" : "Due to the non stop rain from the last 2 days still continuing, the grounds for the games this Saturday in all the scheduled areas are in bad and unplayable conditions.ALL the games scheduled for Saturday have been declared rained out with the points split between the teams.\n\nWe request all the teams scheduled with the games tomorrow, to send their declaration sheet with playing 12 to micricketstats@gmail.com ASAP.\n\nPre-Quarterfinals scheduled on Sunday are active at this point and top 2 teams from each pool will move on to the playoffs. Player Eligibility for the playoffs is 1 game.\n\nAfter all the declaration sheets are sent, our stats team would compile a list of eligible players for the teams playing the Sunday Pre-QF's.\n\nThe schedule for the Pre-QF's with the team names along with the umpiring information will be sent out as soon as we have all the necessary information.",
 	      "expirationDate" : "01/6/2017",
-	      "important": true,
+	      "important": false,
 	      "active": true
 	   },{
 	      "id": 6,
@@ -31,7 +31,7 @@
 	      "subtitle" : "CLOSED",
 	      "message" : "We have reached the threshold for accommodating teams for Mich-CA 2017 and closing the earlier 'extended' registration process.\n\nA total 17 F40 and 48 T20 teams clubs will participate for the summer F40 and T20 formats and we are moving ahead with the scheduling process.",
 	      "expirationDate" : "01/6/2017",
-	      "important": true,
+	      "important": false,
 	      "active": true
 	   },{
 	      "id": 5,
