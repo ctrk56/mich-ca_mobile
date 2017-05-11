@@ -6,10 +6,9 @@ MichCA: Is a non-profit organization establised in 2001.
 3> Except Tournaments and Points section rest of the content will be static.
 4> We are planning to buy data feed (APIs) from cricHQ and would like incorporate that.
 5> The data feed will be for Tournaments and Points (this is where it will be tricky) but again as simple as possible.
-6> Need two new pages i.e., Dashboard page which is ajax and will have widgets/sections and should use data feeds.
+6> Need two new pages i.e., Dashboard page which is ajax and will have widgets/sections and should use data feeds to show information like news, upcoming matchs, leader boards etc..
 6a> The second page will be a photo gallery and should be self organized like just dump photos in a location and
 the page should be able to just show paginated view of latest photos.
-to show information like news, upcoming matchs, leader boards etc..
 7> MichCA will be hosting the site.
 8> I'm can make sure MichCA will come to you for any future maintanance and changes.
 
