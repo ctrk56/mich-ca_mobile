@@ -2,399 +2,64 @@
   "fixtures": [
     {
       "time": "10:30 AM",
-      "homeTeam": "P3CC",
-      "awayTeam": "DCCC",
-      "matchDate": "Saturday, April 22, 2017",
-      "ground": "Bloomer Park",
-      "result": "",
-      "active": false
-    },
-    
-    {
-      "time": "10:30 AM",
-      "homeTeam": "P3CC",
-      "awayTeam": "DCCC",
-      "matchDate": "Saturday, April 22, 2017",
-      "ground": "Bloomer Park",
-      "result": "",
-      "active": false
-    },
-    {
-      "time": "2:30 PM",
-      "homeTeam": "GLCC",
-      "awayTeam": "UNCC",
-      "matchDate": "Saturday, April 22, 2017",
-      "ground": "Bloomer Park",
-      "result": "",
-      "active": false
-    },
-    {
-      "time": "10:30 AM",
-      "homeTeam": "RSCC",
-      "awayTeam": "TCA3",
-      "matchDate": "Saturday, April 22, 2017",
-      "ground": "Murphy Park",
-      "result": "",
-      "active": false
-    },
-    {
-      "time": "2:30 PM",
-      "homeTeam": "SPCC",
-      "awayTeam": "VSCC",
-      "matchDate": "Saturday, April 22, 2017",
-      "ground": "Murphy Park",
-      "result": "",
-      "active": false
-    },
-    {
-      "time": "10:30 AM",
-      "homeTeam": "OUCC",
-      "awayTeam": "MOCC",
-      "matchDate": "Saturday, April 22, 2017",
-      "ground": "Lyan Oaks Park",
-      "result": "",
-      "active": false
-    },
-    {
-      "time": "2:30 PM",
-      "homeTeam": "DSKB",
-      "awayTeam": "TRCC",
-      "matchDate": "Saturday, April 22, 2017",
-      "ground": "Lyan Oaks Park",
-      "result": "",
-      "active": false
-    },
-    {
-      "time": "10:30 AM",
-      "homeTeam": "MVCC",
-      "awayTeam": "WACC",
-      "matchDate": "Saturday, April 22, 2017",
-      "ground": "Mirage Park",
-      "result": "",
-      "active": false
-    },
-    {
-      "time": "2:30 PM",
-      "homeTeam": "KWCC",
-      "awayTeam": "RKTR",
-      "matchDate": "Saturday, April 22, 2017",
-      "ground": "Mirage Park",
-      "result": "",
-      "active": false
-    },
-    {
-      "time": "10:30 AM",
-      "homeTeam": "PHCA",
-      "awayTeam": "GPAN",
-      "matchDate": "Sunday, April 23, 2017",
-      "ground": "Bloomer Park",
-      "result": "",
-      "active": false
-    },
-    {
-      "time": "2:30 PM",
-      "homeTeam": "FCCB",
-      "awayTeam": "TCA1",
-      "matchDate": "Sunday, April 23, 2017",
-      "ground": "Bloomer Park",
-      "result": "",
-      "active": false
-    },
-    {
-      "time": "10:30 AM",
-      "homeTeam": "MMSS",
-      "awayTeam": "NVCC",
-      "matchDate": "Sunday, April 23, 2017",
-      "ground": "Murphy Park",
-      "result": "",
-      "active": false
-    },
-    {
-      "time": "2:30 PM",
       "homeTeam": "GTTC",
-      "awayTeam": "DSKW",
-      "matchDate": "Sunday, April 23, 2017",
-      "ground": "Murphy Park",
-      "result": "",
-      "active": false
-    },
-    {
-      "time": "10:30 AM",
-      "homeTeam": "DEPC",
-      "awayTeam": "TCA2",
-      "matchDate": "Sunday, April 23, 2017",
-      "ground": "Lyan Oaks Park",
-      "result": "",
-      "active": false
-    },
-    {
-      "time": "2:30 PM",
-      "homeTeam": "MPCC",
-      "awayTeam": "MDCC",
-      "matchDate": "Sunday, April 23, 2017",
-      "ground": "Lyan Oaks Park",
-      "result": "",
-      "active": false
-    },
-    {
-      "time": "10:30 AM",
-      "homeTeam": "MMCH",
-      "awayTeam": "RKTE",
-      "matchDate": "Sunday, April 23, 2017",
-      "ground": "Mirage Park",
-      "result": "",
-      "active": false
-    },
-    {
-      "time": "2:30 PM",
-      "homeTeam": "CHCC",
-      "awayTeam": "GDCC",
-      "matchDate": "Sunday, April 23, 2017",
-      "ground": "Mirage Park",
-      "result": "",
-      "active": false
-    },
-    {
-      "time": "10:30 AM",
-      "homeTeam": "KWCC",
-      "awayTeam": "RSCC",
-      "matchDate": "Saturday, April 29, 2017",
+      "awayTeam": "MIRC",
+      "matchDate": "Sunday, May 14, 2017",
       "ground": "Bloomer Park",
       "result": "",
-      "active": false
-    },
-    {
-      "time": "2:30 PM",
-      "homeTeam": "WACC",
-      "awayTeam": "CHCC",
-      "matchDate": "Saturday, April 29, 2017",
-      "ground": "Bloomer Park",
-      "result": "",
-      "active": false
+      "active": true
     },
     {
       "time": "10:30 AM",
-      "homeTeam": "DCCC",
-      "awayTeam": "GLCC",
-      "matchDate": "Saturday, April 29, 2017",
-      "ground": "Murphy Park",
-      "result": "",
-      "active": false
-    },
-    {
-      "time": "2:30 PM",
-      "homeTeam": "MOCC",
-      "awayTeam": "DEPC",
-      "matchDate": "Saturday, April 29, 2017",
-      "ground": "Murphy Park",
-      "result": "",
-      "active": false
-    },
-    {
-      "time": "10:30 AM",
-      "homeTeam": "GDCC",
+      "homeTeam": "FCCB",
       "awayTeam": "MVCC",
-      "matchDate": "Saturday, April 29, 2017",
-      "ground": "Lyan Oaks Park",
-      "result": "",
-      "active": false
-    },
-    {
-      "time": "2:30 PM",
-      "homeTeam": "RKTR",
-      "awayTeam": "CAVS",
-      "matchDate": "Saturday, April 29, 2017",
-      "ground": "Lyan Oaks Park",
-      "result": "",
-      "active": false
-    },
-    {
-      "time": "10:30 AM",
-      "homeTeam": "MDCC",
-      "awayTeam": "PHCA",
-      "matchDate": "Saturday, April 29, 2017",
-      "ground": "Mirage Park",
-      "result": "",
-      "active": false
-    },
-    {
-      "time": "2:30 PM",
-      "homeTeam": "GPAN",
-      "awayTeam": "MPCC",
-      "matchDate": "Saturday, April 29, 2017",
-      "ground": "Mirage Park",
-      "result": "",
-      "active": false
-    },
-    {
-      "time": "10:30 AM",
-      "homeTeam": "VSCC",
-      "awayTeam": "MMSS",
-      "matchDate": "Saturday, May 6, 2017",
-      "ground": "Bloomer Park",
-      "result": "",
-      "active": false
-    },
-    {
-      "time": "2:30 PM",
-      "homeTeam": "RKTE",
-      "awayTeam": "GTTC",
-      "matchDate": "Saturday, May 6, 2017",
-      "ground": "Bloomer Park",
-      "result": "",
-      "active": false
-    },
-    {
-      "time": "10:30 AM",
-      "homeTeam": "UNCC",
-      "awayTeam": "P3CC",
-      "matchDate": "Saturday, May 6, 2017",
+      "matchDate": "Sunday, May 14, 2017",
       "ground": "Murphy Park",
       "result": "",
-      "active": false
+      "active": true
     },
     {
       "time": "2:30 PM",
-      "homeTeam": "TCA1",
-      "awayTeam": "DSKB",
-      "matchDate": "Saturday, May 6, 2017",
+      "homeTeam": "KRCC",
+      "awayTeam": "RKTR",
+      "matchDate": "Sunday, May 14, 2017",
       "ground": "Murphy Park",
       "result": "",
-      "active": false
+      "active": true
     },
     {
-      "time": "8:30 AM",
-      "homeTeam": "DSKW",
-      "awayTeam": "MMCH",
-      "matchDate": "Saturday, May 6, 2017",
-      "ground": "Lyan Oaks Park",
-      "result": "",
-      "active": false
-    },
-    {
-      "time": "3:30 PM",
-      "homeTeam": "NVCC",
+      "time": "10:30 AM",
+      "homeTeam": "UKCC",
       "awayTeam": "SPCC",
-      "matchDate": "Saturday, May 6, 2017",
-      "ground": "Lyan Oaks Park",
-      "result": "",
-      "active": false
-    },
-    {
-      "time": "10:30 AM",
-      "homeTeam": "TRCC",
-      "awayTeam": "FCCB",
-      "matchDate": "Saturday, May 6, 2017",
+      "matchDate": "Sunday, May 14, 2017",
       "ground": "Mirage Park",
       "result": "",
-      "active": false
+      "active": true
     },
     {
       "time": "2:30 PM",
-      "homeTeam": "TCA2",
-      "awayTeam": "OUCC",
-      "matchDate": "Saturday, May 6, 2017",
-      "ground": "Mirage Park",
-      "result": "",
-      "active": false
-    },
-    {
-      "time": "10:30 AM",
-      "homeTeam": "TCA3",
-      "awayTeam": "CAVS",
-      "matchDate": "Saturday, May 6, 2017",
-      "ground": "Lyan Oaks Park",
-      "result": "",
-      "active": false
-    },
-    {
-      "time": "10:30 AM",
-      "homeTeam": "TRCC",
-      "awayTeam": "NVCC",
-      "matchDate": "Sunday, May 7, 2017",
-      "ground": "Bloomer Park",
-      "result": "",
-      "active": false
-      
-    },
-    {
-      "time": "2:30 AM",
-      "homeTeam": "WACC",
-      "awayTeam": "KWCC",
-      "matchDate": "Sunday, May 7, 2017",
-      "ground": "Bloomer Park",
-      "result": "",
-      "active": false
-    },
-    {
-      "time": "10:30 AM",
-      "homeTeam": "MMCH",
-      "awayTeam": "DCCC",
-      "matchDate": "Sunday, May 7, 2017",
-      "ground": "Murphy Park",
-      "result": "",
-      "active": false
-    },
-    {
-      "time": "2:30 AM",
-      "homeTeam": "DEPC",
-      "awayTeam": "GPAN",
-      "matchDate": "Sunday, May 7, 2017",
-      "ground": "Murphy Park",
-      "result": "",
-      "active": false
-    },
-    {
-      "time": "10:30 AM",
-      "homeTeam": "TCA3",
-      "awayTeam": "CHCC",
-      "matchDate": "Sunday, May 7, 2017",
-      "ground": "Lyan Oaks Park",
-      "result": "",
-      "active": false
-    },
-    {
-      "time": "2:30 AM",
-      "homeTeam": "VSCC",
-      "awayTeam": "TCA1",
-      "matchDate": "Sunday, May 7, 2017",
-      "ground": "Lyan Oaks Park",
-      "result": "",
-      "active": false
-    },
-    {
-      "time": "10:00 AM",
-      "homeTeam": "GPAN",
-      "awayTeam": "NVCC",
-      "matchDate": "Saturday, May 13, 2017",
-      "ground": "Bloomer Park",
-      "result": "",
-      "active": true
-    },
-    {
-      "time": "10:00 AM",
-      "homeTeam": "MDCC",
-      "awayTeam": "WACC",
-      "matchDate": "Saturday, May 13, 2017",
-      "ground": "Murphy Park",
-      "result": "",
-      "active": true
-    },
-    {
-      "time": "10:00 AM",
-      "homeTeam": "DCCC",
-      "awayTeam": "VSCC",
-      "matchDate": "Saturday, May 13, 2017",
+      "homeTeam": "KWCC",
+      "awayTeam": "P3CC",
+      "matchDate": "Sunday, May 14, 2017",
       "ground": "Mirage Park",
       "result": "",
       "active": true
     },
     {
-      "time": "10:00 AM",
-      "homeTeam": "DSKW",
-      "awayTeam": "CHCC",
-      "matchDate": "Saturday, May 13, 2017",
-      "ground": "Canton Park",
+      "time": "10:30 AM",
+      "homeTeam": "TCAS",
+      "awayTeam": "ZFCC",
+      "matchDate": "Sunday, May 14, 2017",
+      "ground": "Heritage Park (Canton)",
+      "result": "",
+      "active": true
+    },
+    {
+      "time": "2:30 PM",
+      "homeTeam": "TCAP",
+      "awayTeam": "ADCC",
+      "matchDate": "Sunday, May 14, 2017",
+      "ground": "Heritage Park (Canton)",
       "result": "",
       "active": true
     }
