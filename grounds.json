@@ -73,6 +73,18 @@
          "active": true
       },
       {  
+         "name":"CRC Park, New Haven",
+         "address":"25029 26 Mile Rd, New Haven, MI 48048",
+         "city":"New Haven",
+         "state":"MI",
+         "zip":"48048",
+         "android_link":"",
+         "ios_link":"",
+         "latitude":0,
+         "longitude": 0,
+         "active": true
+      },
+      {  
          "name":"Beatty Park, Toledo, Ohio",
          "address":"1450 South Cove Rd",
          "city":"Toledo",
