@@ -35,6 +35,16 @@
       "title": "CricHQ App Scoring",
       "link": "http://mich-ca.org/vcdocs/michca/uploaded/all_docs/2016_crichq_scoring_copy-21042016-111130.ppt",
       "active": true
+    },{
+      "id":8,
+      "title": "T20 Tournament Regulations",
+      "link": "http://mich-ca.org/vcdocs/michca/uploaded/all_docs/2017_michca_t20_tournament%20regulations_final-19052017-093340.pdf",
+      "active": true
+    },{
+      "id":8,
+      "title": "F40 Tournament Regulations",
+      "link": "http://mich-ca.org/vcdocs/michca/uploaded/all_docs/2017_michca_f40_tournament%20regulations_final-19052017-093354.pdf",
+      "active": true
     }
   ]
 }
